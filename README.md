@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anaghaaaa
-- 👀 I’m interested in UI/UX development and Machine Learning
+- 👀 I’m interested in UI/UX development.
 - 📫 How to reach me anaghasobhamanoj@gmail.com
 
 <!---
