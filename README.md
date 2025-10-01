@@ -12,7 +12,7 @@ I'm a DevOps enthusiast currently at **Schneider Electric**, where I work on inf
 
 
 ## 💬 Let's Connect
-📫 Reach me at: [anaghasobhamanojgmail.com  
+📫 Reach me at: anaghasobhamanoj@gmail.com  
 🔗 LinkedIn: [[linkedincom/in/anaghamanoj](https://www.linkedin.com/in/anagha-manoj49?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMXVFwRreQcWobvqTMUmgNg%3D%3D)
 
 ## 💡 Interests
