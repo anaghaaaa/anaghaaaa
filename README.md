@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Anagha Manoj!
 
-I'm a DevOps enthusiast currently interning at **Schneider Electric**, where I work on infrastructure automation and CI/CD pipelines using tools like **Azure**, **VMware**, **Terraform**, and **Ansible**.
+I'm a DevOps enthusiast currently at **Schneider Electric**, where I work on infrastructure automation and CI/CD pipelines using tools like **Azure**, **VMware**, **Terraform**, and **Ansible**.
 
 
 ## 🌱 What I'm Learning
